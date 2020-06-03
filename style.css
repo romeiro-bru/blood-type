@@ -17,7 +17,7 @@ h2 {
     color: antiquewhite;
     font-weight: lighter;
     font-style: italic;
-    font-size: 21px;
+    font-size: 18px;
 }
 #doador, #receptor {
     margin-bottom: 24px;
@@ -58,6 +58,10 @@ select {
     padding: 7px 9px;
     font-weight: bolder;
     color: #ffffff;
+    box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.09);
+}
+.main-btn:hover {
+    opacity: 0.7;
 }
 
 @media (max-width: 600px) {
