@@ -10,6 +10,14 @@ section {
 header {
     color: white;
     text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+h2 {
+    color: antiquewhite;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 21px;
 }
 #doador, #receptor {
     margin-bottom: 24px;
@@ -22,15 +30,7 @@ select {
     padding: 5px 11px;
     color: #d94921;
 }
-.main-btn {
-    background-color: #009688;
-    border: 1px solid #009688;
-    border-radius: 3px;
-    padding: 8px 21px;    
-    font-weight: bolder;
-    color: white;
-    margin-bottom: 20px;
-}
+
 #foto {
     width: 334px;
 }
@@ -45,6 +45,19 @@ select {
 
 .text-align-center {
     text-align: center;
+}
+.centros {
+    color: #fff7ed;
+    font-size: 17px;
+    font-style: italic;
+}
+.main-btn {
+    background-color: #fad0c0;
+    border: 2px solid #f6aeae;
+    border-radius: 26px;
+    padding: 7px 9px;
+    font-weight: bolder;
+    color: #ffffff;
 }
 
 @media (max-width: 600px) {
