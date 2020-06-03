@@ -1,0 +1,49 @@
+body {
+    background: rgb(250, 208, 192);
+    font: normal 15pt Arial;
+}
+section {
+    padding: 15px;
+    width: 388px;
+    margin: auto;
+}
+header {
+    color: white;
+    text-align: center;
+}
+#doador, #receptor {
+    margin-bottom: 24px;
+    color: #009688;
+}
+select {
+    border: 1px solid antiquewhite;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding: 5px 11px;
+    color: #d94921;
+}
+.main-btn {
+    background-color: #009688;
+    border: 1px solid #009688;
+    border-radius: 3px;
+    padding: 8px 21px;    
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 20px;
+}
+#foto {
+    width: 334px;
+    margin-top: 20px;
+}
+
+#resultado {
+    text-align: center;
+    color: #009688;
+}
+#ressultado {
+    margin-top: 10px;
+}
+
+.text-align-center {
+    text-align: center;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compatibilidade Sanguínea</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onclick="compatibilidade()">
+    <header>
+     <h1>{ Compatibilidade Sanguínea }</h1>
+    </header>
+    <div class="container">
+      <section>
+        <div id="doador">
+          <label for="doador">Tipo sanguíneo <strong>doador</strong>:</label>
+          <select name="doador-type" id="doador-type">
+            <option value="O">O</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="AB">AB</option>
+          </select>
+        </div>
+        <div id="receptor">
+          <label for="receptor">Tipo sanguíneo <strong>receptor</strong>:</label>
+          <select name="receptor-type" id="receptor-type">
+            <option value="O">O</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="AB">AB</option>
+          </select>
+        </div>
+        <input class="main-btn" type="button" value="Submit" onclick="compatibilidade()">
+
+        <div id="resultado"></div>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
