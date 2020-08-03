@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://image.flaticon.com/icons/svg/2865/2865218.svg"  height="80" alt="Braum">
+<img  src="https://image.flaticon.com/icons/svg/2865/2865218.svg"  height="80" alt="heart blood drop">
 </p>
 <br/>
 > https://romeiro-bru.github.io/blood-type/
