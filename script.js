@@ -6,9 +6,6 @@ function compatibilidade() {
     var img = document.createElement('img')
     img.setAttribute('id', 'foto')
 
-    if (doador.value == "-" || receptor.value == "-") {
-        resultado.innerHTML = 'Selecione os tipos sanguíneos'
-    } else {
         if (doador.value == "O") {       
             if (receptor.value == "O" || receptor.value == "A") {
                 resultado.innerHTML = 'Os tipos sanguíneos são compatíveis!'
@@ -42,6 +39,6 @@ function compatibilidade() {
                 img.setAttribute('src', 'sad-drop.png')
             }
         }
-}
+
     resultado.appendChild(img)
 }
