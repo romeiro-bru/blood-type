@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://image.flaticon.com/icons/svg/2865/2865218.svg"  height="80" alt="heart blood drop">
+<img  src="https://media.giphy.com/media/XKTMEZ3abscosNZmJu/giphy.gif"  height="280" alt="blood donation">
 </p>
 <br/>
 > https://romeiro-bru.github.io/blood-type/
