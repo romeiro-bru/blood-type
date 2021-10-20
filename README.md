@@ -1,13 +1,13 @@
 <p  align="center">
-<img  src="https://media.giphy.com/media/XKTMEZ3abscosNZmJu/giphy.gif"  height="280" alt="blood donation">
+<img  src="https://media.giphy.com/media/XKTMEZ3abscosNZmJu/giphy.gif"  height="180" alt="blood donation">
 </p>
 <br/>
 
 
 ## Features
-* Select donor's bloody type :heavy_check_mark:
-* Select receiver's blood type :heavy_check_mark:
-* Check if blood donation would be possible :muscle:
+* Selecione o tipo sanguíneo do doador :heavy_check_mark:
+* Selecione o tipo sanguíneo do receptor :heavy_check_mark:
+* Verifique se são compatíveis :muscle:
 
 ## Technologies
 * JavaScript :heart_eyes_cat:
